@@ -1,0 +1,18 @@
+header {
+	width: 960px;
+	height: 100px;
+	background-color: #66a3ff;
+	padding: 10px;
+	color: #ffffff;
+	margin-left: 155px;
+}
+h1{
+	font: Tahoma;
+	font-size: 24px;
+	color: white;
+	float: right;
+	margin-right: 540px;
+}
+html{
+	background-color: #0091be;
+}
